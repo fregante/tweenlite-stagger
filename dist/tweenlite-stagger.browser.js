@@ -1,0 +1,2 @@
+/*! npm.im/tweenlite-stagger */
+!function(){"use strict";function e(e){TweenLite[e]=function(){var t=new TimelineLite;return t[e].apply(t,arguments)}}e("staggerFromTo"),e("staggerFrom"),e("staggerTo")}();
