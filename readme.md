@@ -46,6 +46,10 @@ TweenLite.staggerFromTo('p', 1, {x: 10}, {x: 100}, 0.2);
 
 TweenLite and TimelineLite, of course. You need to load it separately.
 
+## Related
+
+* [gsap-then](https://github.com/bfred-it/gsap-then): Make every GSAP Tween a promise. `tl.then(doSomething);`
+
 ## License
 
 MIT © [Federico Brigante](http://twitter.com/bfred_it)
