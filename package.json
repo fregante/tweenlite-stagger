@@ -1,6 +1,6 @@
 {
   "name": "tweenlite-stagger",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Avoid TweenMax. Use TweenLite.stagger with the help of TimelineLite",
   "license": "MIT",
   "repository": "bfred-it/tweenlite-stagger",
