@@ -1,3 +1,8 @@
+# Deprecated
+
+### No need for this module.
+### Use `new TimelineLite().staggerFrom(…)` instead of `TweenLite.staggerFrom(…)`
+
 # tweenlite-stagger
 
 > Avoid TweenMax. Use TweenLite.stagger with the help of TimelineLite
